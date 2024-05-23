@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87991881285",
+    "project_id": "liveintech-fb461",
+    "storage_bucket": "liveintech-fb461.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87991881285:android:f73959554fc9b838505d2c",
+        "android_client_info": {
+          "package_name": "com.example.liveintech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA83r0d01b9wlK8UxfS68bymdUMAlFee2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
